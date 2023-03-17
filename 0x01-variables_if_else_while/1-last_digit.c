@@ -1,9 +1,10 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
+
 /**
   *main - Entry point
-  *Decription: 'This program will assign a random number to the variable'
+  *Description: 'This program will assign a random number to the variable'
   *
   * Return: Always 0
   */
